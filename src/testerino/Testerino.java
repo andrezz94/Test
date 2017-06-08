@@ -19,11 +19,7 @@ public class Testerino {
      * @param args the command line arguments
      */
     public static void main(String [] args) throws IOException {
-        String fileName = "testFile.txt";
-        FileOutputStream fos = new FileOutputStream("C://Test/" + fileName);
-        String message = "hello!";
-        byte [] data = message.getBytes();
-        fos.write(data);
+        //Hej detta är ett test
     }
 }
     
