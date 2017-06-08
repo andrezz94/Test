@@ -19,23 +19,7 @@ public class Testerino {
      * @param args the command line arguments
      */
     public static void main(String [] args) throws IOException {
-        //Hej detta är ett test
-        //Hej detta är ett test
-        //Hej detta är ett test
-        //Hej detta är ett test
-        //Hej detta är ett test
-        //Hej detta är ett test
         
-        
-        //Såhär blir det nu
-        
-        
-        //Nu blir det såhär
-        
-        
-        
-        //Hej detta är ett test
-        //Hej detta är ett test
     }
 }
     
